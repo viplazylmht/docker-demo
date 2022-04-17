@@ -1,0 +1,4 @@
+ETH
+BTC
+GMT
+FIL

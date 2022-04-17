@@ -1,0 +1,4 @@
+*.ipynb
+kafka_persistence/**
+flair_model/**
+.env
